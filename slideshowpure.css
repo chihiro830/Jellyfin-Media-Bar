@@ -377,7 +377,7 @@
 
 .play-button {
   display: inline-flex;
-  flex-direction: row;
+  flex-direction: row !important;
   align-items: center;
   justify-content: center;
   padding: 8px 16px;
