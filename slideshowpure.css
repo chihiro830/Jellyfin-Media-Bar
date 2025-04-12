@@ -145,7 +145,7 @@
 #slides-container {
   position: relative;
   width: 100vw;
-  height: 100%;
+  height: 105%;
   overflow: hidden;
   margin: 0 auto;
 }
